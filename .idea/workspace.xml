@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69ad8383-f4f3-4762-ba55-2863d206494d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../5Pw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase#3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/crudProgramacion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/CrudProgramacionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/entity/UsersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/java/com/aprendiendo/crudProgramacion/services/impl/UserServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crudProgramacion/crudProgramacion/src/test/java/com/aprendiendo/crudProgramacion/CrudProgramacionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/JavaBack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/crudProgramacion/src/main/java/com/ProgramacionWeb/crudProgramacion/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/crudProgramacion/src/main/java/com/ProgramacionWeb/crudProgramacion/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/crudProgramacion/src/main/java/com/ProgramacionWeb/crudProgramacion/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBack/crudProgramacion/src/main/java/com/ProgramacionWeb/crudProgramacion/services/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2fD0d3HHV8mi8eELowZsYPqAPNS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Andres/sistemas/5 Semestre/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ad8383-f4f3-4762-ba55-2863d206494d" name="Changes" comment="" />
+      <created>1713320425218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713320425218</updated>
+      <workItem from="1713320426282" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
